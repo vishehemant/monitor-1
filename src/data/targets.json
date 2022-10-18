@@ -1,0 +1,14 @@
+{
+    "targets": [
+    {
+        "url": "https://api.tvmaze.com",
+        "port": 80,
+        "label": "Google"
+    },
+    {
+        "url": "https://api.tvmaze.com",
+        "port": 8080,
+        "label": "Test"
+    }
+    ]
+}
